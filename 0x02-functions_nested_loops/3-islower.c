@@ -2,11 +2,11 @@
 #include "main.h"
 
 /**
-* _isLower - check the code for ALX School Students
+* _islower - check the code for ALX School Students
 * @c: parameter the int will use to check for the argument of the function
 * Return: Always 0
 */
-int _isLower(int c)
+int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')
 {

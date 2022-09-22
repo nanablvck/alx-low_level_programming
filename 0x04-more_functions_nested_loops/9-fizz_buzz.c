@@ -24,7 +24,7 @@ else if (c % 3 == 0 && c % 5 == 0)
 {
 printf("%s ", fb);
 }
-else if( c % 3 == 0)
+else if(c % 3 == 0)
 {
 printf("%s ", f);
 }
